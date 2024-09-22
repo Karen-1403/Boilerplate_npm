@@ -10,6 +10,10 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+	},
 	"author" : "Karen Maurice William",
+	"description": "This project is just a simple build-up to learn the basics of Node.js and managing npm pacakages",
+	"keywords": ["back-end development","Node.js","freecodecamp","npm"],
+	"license" : "MIT",
+	"version": "1.0.0"
 }
